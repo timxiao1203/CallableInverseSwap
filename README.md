@@ -15,8 +15,7 @@ A few tests of internal consistency of the model raise some concerns. The result
 Fortunately, these discrepancies are not important for the deal under consideration. The reason is that the price dynamics that affect the deal is driven by essentially one factor process.  The history of tests of one factor driven processes supports the validity of pricing. 
 However, extra caution is needed when the model is used for pricing deals that are driven by essentially two factor random processes. Eventually, the indicated inconsistencies in the model need to be eliminated. 
 
-Callable inserse floating rate swap is one type of callable exotics (see https://finpricing.com/lib/EqCallable.html).
 
 References:
 
-https://osf.io/9jyh8/download
+https://finpricing.com/curveVolList.html
